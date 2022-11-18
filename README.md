@@ -1,6 +1,4 @@
-# (WIP)
-
-# :arrow_up_small: React Native Best Practice Template
+# :arrow_up_small: React Native Best Practice Template (On Development)
 
 <p>
   <a href="https://github.com/react-native-community/react-native-template-typescript/graphs/commit-activity">
