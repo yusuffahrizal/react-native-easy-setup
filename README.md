@@ -12,7 +12,13 @@
 > The easiest way to setup your react native project.
 
 ## :label: Features
-- WIP
+- Best practice folder structure
+- Clear documentation and guidelines for using components in each folder
+- Includes Axios & Firebase setups
+- State management using Redux
+- SVG support
+- Themes and colors
+- Custom Buttons, Custom Input Text, Custom Fonts
 
 ## :recycle: Usage
 
