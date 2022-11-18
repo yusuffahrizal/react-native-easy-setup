@@ -38,5 +38,4 @@ Further information can be found here: https://github.com/react-native-community
 
 This project is [MIT](LICENSE) licensed.
 
-## :love_letter: Special Thanks to
-[React Native Community](https://github.com/react-native-community)
+:love_letter: Special Thanks to [React Native Community](https://github.com/react-native-community)
