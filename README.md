@@ -1,4 +1,4 @@
-# :desktop_computer: React Native Best Practice Template
+# :arrow_up_small: React Native Best Practice Template
 
 <p>
   <a href="https://github.com/react-native-community/react-native-template-typescript/graphs/commit-activity">
@@ -12,6 +12,13 @@
 > The easiest way to setup your react native project.
 
 ## :label: Features
+- WIP
+
+## :recycle: Usage
+
+```sh
+npx react-native init ExampleApp --template https://github.com/yusuffahrizal/react-native-easy-setup.git
+```
 
 ## :bookmark: License
 

@@ -1,15 +1,21 @@
 {
-    "name": "react-native-base-code",
+    "name": "react-native-easy-setup",
     "version": "0.0.1",
-    "description": "This template create by own my own",
+    "description": "The easiest way to setup your react native project",
     "files": [
       "template",
       "template.config.js"
     ],
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/yusuffahrizal/fahrizal-rn-template"
+      "url": "git+https://github.com/yusuffahrizal/react-native-easy-setup.git"
     },
+    "keywords": [
+      "react-native",
+      "expo",
+      "jest",
+      "template"
+    ],
     "author": "Yusuf Fahrizal <yusuffahrizal18@gmail.com>",
     "license": "MIT"
   }
