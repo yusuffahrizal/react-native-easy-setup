@@ -1,0 +1,15 @@
+{
+    "name": "fahrizal-rn-template",
+    "version": "0.0.1",
+    "description": "This template create by own my own",
+    "files": [
+      "template",
+      "template.config.js"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/yusuffahrizal/fahrizal-rn-template"
+    },
+    "author": "Yusuf Fahrizal <yusuffahrizal18@gmail.com>",
+    "license": "MIT"
+  }
