@@ -1,14 +1,17 @@
 import React from 'react'
-import { StyleSheet, Text, View } from 'react-native'
-import { Button, Gap } from '../../components'
+import { ActivityIndicator, StyleSheet, Text, View } from 'react-native'
 import { COLOR, FONT } from '../../theme'
+import { IconReact } from '../../assets'
+import { Gap } from '../../components'
 
 const Splash = () => {
   return (
     <View style={styles.pageWrap}>
-      <Text style={styles.exampleText}>Splash text</Text>
+      <IconReact width={200} height={200} />
+      <Gap height={30} />
+      <Text style={styles.title}>React Native Easy Setup</Text>
       <Gap height={20} />
-      <Button type='secondary' title="Hallo" />
+      <ActivityIndicator size='small' color={COLOR.BLACK} />
     </View>
   )
 }
@@ -17,10 +20,13 @@ export default Splash
 
 const styles = StyleSheet.create({
   pageWrap: {
+    flex: 1,
     padding: 20,
+    alignItems: 'center',
+    justifyContent: 'center'
   },
-  exampleText: {
-    fontFamily: FONT.NORMAL,
-    color: COLOR.TYPE.DANGER
+  title: {
+    fontFamily: FONT[700],
+    fontSize: 20
   }
 })

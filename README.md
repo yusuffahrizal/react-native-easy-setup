@@ -13,12 +13,14 @@
 
 ## :label: Features
 - Best practice folder structure
-- Clear documentation and guidelines for using components in each folder
-- Includes React Navigation, Axios & Firebase setups
+- Documentation and guidelines for using components in each folder
+- Includes React Navigation (Stack, Drawer, Tab & Bottom Navigation), Axios & Firebase setups
 - State management using Redux
+- Google Analytics Ready
 - SVG support
-- Themes and colors
+- Themes and Colors grouping
 - Custom Buttons, Custom Input Text, Custom Fonts
+- i18n Internationalization - Multiple Language 
 
 ## :recycle: Usage
 
