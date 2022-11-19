@@ -1,8 +1,8 @@
-import React from 'react';
-import { StyleSheet } from 'react-native';
-import { NavigationContainer } from '@react-navigation/native';
-import Router from './navigation';
-import { BasePage } from './containers';
+import React from 'react'
+import { NavigationContainer } from '@react-navigation/native'
+import { StyleSheet } from 'react-native'
+import { BasePage } from './containers'
+import Router from './navigation'
 
 const App = () => {
   return (

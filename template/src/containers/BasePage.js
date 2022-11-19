@@ -1,5 +1,5 @@
-import React, { Fragment } from 'react';
-import { SafeAreaView, StyleSheet, View } from 'react-native';
+import React, { Fragment } from 'react'
+import { SafeAreaView, StyleSheet, View } from 'react-native'
 
 const BasePage = props => {
   return (

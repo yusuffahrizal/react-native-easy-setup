@@ -1,6 +1,6 @@
 
 // Static Screen
-import Splash from "./static/Splash";
+import Splash from "./static/Splash"
 // End of Static Screen
 
 export {

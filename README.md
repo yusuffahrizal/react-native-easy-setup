@@ -14,7 +14,7 @@
 ## :label: Features
 - Best practice folder structure
 - Clear documentation and guidelines for using components in each folder
-- Includes Axios & Firebase setups
+- Includes React Navigation, Axios & Firebase setups
 - State management using Redux
 - SVG support
 - Themes and colors
