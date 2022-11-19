@@ -10,11 +10,6 @@ const Button = ({
   onPress = () => {} /* Required|Function */
  }) => {
 
-  const test = () => {
-    console.log(LeftIcon)
-    // console.log(LeftIcon.name == 'SvgComponent')
-  }
-
   return (
     <TouchableOpacity style={styles.btnWrapper(type, isRounded)} onPress={test}>
       <Text style={styles.btnText(type)}>{title}</Text>

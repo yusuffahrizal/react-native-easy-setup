@@ -17,6 +17,7 @@
 - Includes React Navigation (Stack, Drawer, Tab & Bottom Navigation), Axios & Firebase setups
 - State management using Redux
 - Google Analytics Ready
+- Authentication flows
 - SVG support
 - Themes and Colors grouping
 - Custom Buttons, Custom Input Text, Custom Fonts
