@@ -36,7 +36,7 @@ Further information can be found here: https://github.com/react-native-community
 
 ## :bookmark: License
 
-This project is [MIT](https://github.com/yusuffahrizal/react-native-easy-setup/blob/master/license.txt) licensed.
+This project is [MIT](https://opensource.org/licenses/MIT) licensed.
 
 ---
 :love_letter: Special Thanks to [React Native Community](https://github.com/react-native-community)
