@@ -72,6 +72,10 @@
     {
       "path": "src/assets/fonts/Poppins-ThinItalic.ttf",
       "sha1": "fb8fccca21550e71135f92bbaf8a2e8a12c90465"
+    },
+    {
+      "path": "src/assets/fonts/README.md",
+      "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
     }
   ]
 }
